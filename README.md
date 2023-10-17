@@ -11,3 +11,8 @@ Algunos links:
 
   Programa
 * https://github.com/emersondivB0/RLC-Python/blob/main/CircuitoRLC.py
+
+
+  ayuda
+  * https://dokumen.tips/documents/circuitos-rlc-informe-4.html
+  * https://www.academia.edu/27353814/Informe_L6_Definitivo
