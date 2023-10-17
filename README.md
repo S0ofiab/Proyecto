@@ -7,4 +7,7 @@ Algunos links:
 * https://github.com/stegsoph/Resonance-Circuits
   
   Libreria scipy.fft
-* https://docs.scipy.org/doc/scipy/tutorial/fft.html 
+* https://docs.scipy.org/doc/scipy/tutorial/fft.html
+
+  Programa
+* https://github.com/emersondivB0/RLC-Python/blob/main/CircuitoRLC.py
