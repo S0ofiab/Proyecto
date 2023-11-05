@@ -16,3 +16,6 @@ Algunos links:
   ayuda
   * https://dokumen.tips/documents/circuitos-rlc-informe-4.html
   * https://www.academia.edu/27353814/Informe_L6_Definitivo
+
+Circuitos de AC
+* http://www3.fi.mdp.edu.ar/dtoelectrica/files/electrotecnia/e_im_4_cicuitos_de_corriente_alterna.pdf
