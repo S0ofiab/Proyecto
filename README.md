@@ -16,3 +16,10 @@ Algunos links:
   ayuda
   * https://dokumen.tips/documents/circuitos-rlc-informe-4.html
   * https://www.academia.edu/27353814/Informe_L6_Definitivo
+
+Circuitos de AC
+* http://www3.fi.mdp.edu.ar/dtoelectrica/files/electrotecnia/e_im_4_cicuitos_de_corriente_alterna.pdf
+
+Imagénes de referencia
+
+* Pulsos cuadrados: https://1.bp.blogspot.com/O7xm1b870uDw_0j7Z1Zlq8hbjtdxsDFtGQDJS5muHmsoURzIAIi2ZKUtHW0djhm-wjLn0zMj8PBMgEwGA3SrWQwgfVWpkb84ISvljV3c59f7xZi3Xc_oK9_g1n39RKKQAmGDwPaP0EnpoKXoEdyRtzgz0j14_GPFRHgq2BWhJH_0jK-ZGrIVra1Oc6yLAbrBKlRYk1u1w7aYumKb0Hw_MIiKQr3cErGO9v2pbt-WuWARG-gTlP4u0BzFmkybxBCGRVGzMjS-F2S4D4uQKYnq9brRFSqKX3tRdPgBaqByJe_eba9i-_sQFLXBti0ELdeocrA5Eca8xXI7OftysX-oMZTS68rvZIu0cfDhkO7Ghbek3Y7KaetpO6zP4L2eczdBR8dXeGuxssinuccgwuiAERVC9x-qEZd_KNtRoVOpuFcBH5EnvvPE0N1TNABhVZhJnMbD6VmX1P5vdQHZ2tKuFCgVDwB40Eah7XGBGYGWPmSIA5wSDlcYcf7FXrNDW6LvC4H_aarK2KDrx8V2UqDu5YQuAZs2Kb1Jyh_OWbuIL5XG0RIEIc2PA78Dd7BBeUyZM-6x7fdUGJyPJ9Kjf4JSivUd3OZWdqbOCDjKGtLo951ez8vrL5-mRYleARlH9AbcvdpeBT76CGtyVqxl61fsAQKPkoeE_4w=w868-h643-no
