@@ -28,5 +28,6 @@ Imagénes de referencia
 * Sistema masa resorte: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4Up_eOpZLQ8RkMvBDm3gZyGvAibI1Hy8dw&usqp=CAU
 
 Ecuaciones para serie de Fourier:
-*https://es.wikipedia.org/wiki/Serie_de_Fourier
-*Matrix analysis and applied linear algebra by Carl D. Meyer
+
+* https://es.wikipedia.org/wiki/Serie_de_Fourier
+* Matrix analysis and applied linear algebra by Carl D. Meyer
