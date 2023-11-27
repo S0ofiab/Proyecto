@@ -5,6 +5,7 @@ Algunos links:
 * https://github.com/tokyo-s/FourierDrawings
 * https://github.com/o-Mateo-o/RLC-circuits
 * https://github.com/stegsoph/Resonance-Circuits
+* https://github.com/JoseRZapata/SyS/blob/master/Sistemas.ipynb
   
   Libreria scipy.fft
 * https://docs.scipy.org/doc/scipy/tutorial/fft.html
