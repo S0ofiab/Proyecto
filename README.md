@@ -10,6 +10,9 @@ Algunos links:
   Libreria scipy.fft
 * https://docs.scipy.org/doc/scipy/tutorial/fft.html
 
+  Librería SymPy (cálculo simbólico)
+* https://www.sympy.org/es/
+
   Programa
 * https://github.com/emersondivB0/RLC-Python/blob/main/CircuitoRLC.py
 
